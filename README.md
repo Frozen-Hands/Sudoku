@@ -1,3 +1,3 @@
 # Sudoku
 
-Written in pure python, hopr u enjoy😉.
+Written in pure python, hope u enjoy😉.
